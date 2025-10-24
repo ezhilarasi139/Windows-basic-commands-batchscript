@@ -106,6 +106,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
+<img width="796" height="241" alt="image" src="https://github.com/user-attachments/assets/ecfe9a1a-1e86-4c99-bdad-8a73421add4a" />
 
 
 
@@ -119,6 +120,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+<img width="812" height="137" alt="image" src="https://github.com/user-attachments/assets/b4f8f75f-e46d-451f-b8b5-2f1497d518a7" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -129,8 +131,15 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+<img width="780" height="98" alt="image" src="https://github.com/user-attachments/assets/5c16cdb1-df34-4914-8686-889cbb78d94f" />
 
 
+<img width="602" height="257" alt="image" src="https://github.com/user-attachments/assets/edcb382f-e213-4389-91d3-5dd4dcca68fb" />
+
+
+<img width="508" height="91" alt="image" src="https://github.com/user-attachments/assets/6ddfdf07-c87c-467a-9fba-04860d51227b" />
+
+<img width="536" height="95" alt="image" src="https://github.com/user-attachments/assets/b0a24b5e-7a4b-484d-a7e2-6ccb631f84d8" />
 
 # RESULT:
 The commands/batch files are executed successfully.
