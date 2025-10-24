@@ -1,8 +1,8 @@
 # Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
+## Ex08-Windows-basic-commands-batchscript
 
-## NAME : EZHILARASI N
-## REGISTER NO : 212224040088
+### NAME : EZHILARASI N
+### REGISTER NO : 212224040088
 
 # AIM:
 To execute Windows basic commands and batch scripting
