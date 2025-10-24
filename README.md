@@ -80,6 +80,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
+<img width="787" height="132" alt="image" src="https://github.com/user-attachments/assets/a2d6a530-0ae3-40ac-9996-b4d0d2d58f79" />
 
 
 
@@ -94,6 +95,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
+<img width="772" height="281" alt="image" src="https://github.com/user-attachments/assets/127135e0-22c8-4eba-8172-094615e02423" />
 
 
 
